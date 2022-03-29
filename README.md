@@ -1,5 +1,5 @@
 # IP-scanner
-Get ip address or domain info 
+Get ip address or domain info. Get all info about public domain, dns and even ssl sertificate :)
 
 [![License](https://img.shields.io/github/license/Dimkarpenko/Tanks3D?label=license&style=flat-square)](./LICENSE)
 [![Issues](https://img.shields.io:/github/issues/Dimkarpenko/Tanks3D?style=flat-square)](https://github.com/Dimkarpenko/Tanks3D/issues)
